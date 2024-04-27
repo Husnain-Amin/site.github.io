@@ -1,0 +1,39 @@
+[
+    {
+        "src": "images/b1.jpeg",
+        "description": "UI/UX"
+    },
+    {
+        "src": "images/b2.jpeg",
+        
+        "description": "UI/UX"
+    },
+    {
+        "src": "images/b3.jpeg",
+        "description": "UI/UX"
+    },
+    {
+        "src": "images/d5.jpeg",
+        "description": "Web development"
+    },
+    {
+        "src": "images/d6.jpeg",
+        "description": "Web development"
+    },
+    {
+        "src": "images/d7.jpeg",
+        "description": "Web development"
+    },
+    {
+        "src": "images/a1.jpeg",
+        "description": "App Development"
+    },
+    {
+        "src": "images/a2.jpeg",
+        "description": "App Development"
+    },
+    {
+        "src": "images/a3.jpeg",
+        "description": "App Development"
+    }
+]
